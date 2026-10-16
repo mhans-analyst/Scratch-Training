@@ -1,43 +1,53 @@
-# CS50's Introduction to Programming with Scratch
+ CS50's Introduction to Programming with Scratch
 
-This repository contains my Scratch projects for **CS50's Introduction to Programming with Scratch**. Each `.sb3` file is a Scratch project that can be opened in Scratch.
+This repository contains my Scratch projects for **CS50's Introduction to Programming with Scratch**. Each project is saved as a `.sb3` file and can be opened in Scratch.
 
 ## Projects
 
 ### Project 1: Sprites
+**File:** `Project 1 - Sprites.sb3`
+
 Create a scene that includes at least one additional backdrop and at least three different sprites.
 
-**File:** `Scratch Project.sb3`
-
 ### Project 2: Functions
+**File:** `Project 2 - Functions.sb3`
+
 Create a Scratch animation that uses at least one Motion block, one Looks block, and one Sound block.
 
-**File:** `Scratch Project2.sb3`
-
 ### Project 3: Events
-Create an interactive project where the user presses the arrow keys to control a sprite. The project must include at least two events.
+**File:** `Project 3 - Events.sb3`
 
-**File:** `Scratch Project3.sb3`
+Create an interactive project where the user presses the arrow keys to control a sprite. Include at least two events.
 
 ### Project 4: Values
-Create an interactive project that asks the user questions. The project must use the `ask and wait`, `answer`, and `join` blocks.
+**File:** `Project 4 - Values.sb3`
 
-**File:** `Scratch Project4.sb3`
+Create an interactive project that asks the user questions. Use the `ask and wait`, `answer`, and `join` blocks.
 
 ### Project 5: Conditions
+**File:** `Project 5 - Conditions.sb3`
+
 Create an interactive project that behaves differently depending on the user's choices. Include both an `if` block and an `if / else` block.
 
 ### Project 6: Loops
+**File:** `Project 6 - Loops.sb3`
+
 Create a project where a sprite repeats behavior. Include both a `forever` block and a `repeat` block.
 
 ### Project 7: Variables
-Create a game that uses a variable to keep track of the player's score.
+**File:** `Project 7 - Variables.sb3`
+
+Create a Scratch game that uses a variable to keep track of the player's score.
 
 ### Project 8: Abstraction
-Revise one of the earlier projects by organizing a sequence of blocks used multiple times into a custom block.
+**File:** `Project 8 - Abstraction.sb3`
+
+Revise an earlier project by organizing a sequence of blocks used multiple times into a custom block.
 
 ### Project 9: Building from Scratch
-Create a new project that combines ideas from the course. It must include:
+**File:** `Project 9 - Building from Scratch.sb3`
+
+Create a new project that combines ideas from the course. Include:
 - At least three different sprites
 - At least three backdrops
 - At least one broadcast
